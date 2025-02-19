@@ -183,6 +183,7 @@ def sklearn_comparison(x, y, linreg):
         "sklearn_intercept": sklearn_model.intercept_,
     }
 
+
 def anscombe_quartet():
     # Load Anscombe's quartet
     # These four datasets are the same as in slide 19 of chapter 02-03: Linear and logistic regression
